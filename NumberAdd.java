@@ -30,7 +30,7 @@ public class AdditionOfNumberInString
 				str2="";
 			}
 		}
-		System.out.println("Addition of digits = "+add);
+		System.out.println("Addition of digits   = "+add);
 	}
 
 }
