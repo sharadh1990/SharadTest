@@ -31,7 +31,8 @@ public class AdditionOfNumberInString
 			}
 		}
 		System.out.println("Addition of digits   = "+add);
-		//Print statement removed and comment is added
+		
+		//Second comment added first removed
 	}
 
 }
