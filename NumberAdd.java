@@ -32,7 +32,7 @@ public class AdditionOfNumberInString
 		}
 		System.out.println("Addition of digits   = "+add);
 		//Print statement removed and comment is added
-		//
+		//Lets add one more comment on the master branch
 	}
 
 }
